@@ -1,10 +1,10 @@
-# Old Brave Dark Theme
+# Old Brave OLED Black Theme
 
-Brave's old dark theme, ported to Chrome and Chromium-based browsers.
+Brave's old OLED Black theme, ported to Chrome and Chromium-based browsers.
 
-I prefer Brave's old dark theme (before version 1.19) to Brave's current dark
+I prefer Brave's OLED Black theme (before version 1.19) to Brave's current dark
 theme and Chrome's official dark themes, so I made a standalone theme file based
-on Brave's old dark theme.
+on Brave's OLED Black theme.
 
 This theme uses the exact same colors as Brave did out of the box, complete with
 a dark address bar. I've recreated the new tab page background with a 1440p
@@ -12,7 +12,7 @@ gradient that supports displays up to 8K (at 300% scaling, which is realistic).
 It's the closest you can get to the real thing without modifying your browser's
 source code.
 
-<a href="https://chrome.google.com/webstore/detail/brave-dark-theme/gmccmdephfhnbbfopoobfnfajhmkjbob" title="Available in the Chrome Web Store">
+<a href="pending" title="Available in the Chrome Web Store">
   <img src="badge.png" alt="Chrome Web Store badge" width="200px" height="60px">
 </a>
 
