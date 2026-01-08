@@ -12,7 +12,7 @@ gradient that supports displays up to 8K (at 300% scaling, which is realistic).
 It's the closest you can get to the real thing without modifying your browser's
 source code.
 
-<a href="pending" title="Available in the Chrome Web Store">
+<a href="https://chromewebstore.google.com/detail/old-brave-oled-theme/amfaekohlgpkaemlabpfkklcoigjlljo" title="Available in the Chrome Web Store">
   <img src="badge.png" alt="Chrome Web Store badge" width="200px" height="60px">
 </a>
 
@@ -34,3 +34,4 @@ To remove a theme from Chrome:
 The process might be slightly different for other browsers. The theme
 uninstallation process is completely controlled by your browser and I cannot do
 anything to make it easier.
+
