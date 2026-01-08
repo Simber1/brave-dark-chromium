@@ -16,9 +16,6 @@ source code.
   <img src="badge.png" alt="Chrome Web Store badge" width="200px" height="60px">
 </a>
 
-![](store-images/screenshot_standard.png)
-![](store-images/screenshot_incognito.png)
-
 Since people keep asking: This isn't an app or extension, this is a theme. It
 changes some of the colors of your browser, but it cannot change page colors or
 add buttons to your browser.
@@ -34,4 +31,5 @@ To remove a theme from Chrome:
 The process might be slightly different for other browsers. The theme
 uninstallation process is completely controlled by your browser and I cannot do
 anything to make it easier.
+
 
